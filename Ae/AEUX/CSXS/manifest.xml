@@ -11,7 +11,7 @@
   </ExtensionList>
   <ExecutionEnvironment>
     <HostList>
-      <Host Name="AEFT" Version="16.0" />
+      <Host Name="AEFT" Version="[16.0,99.9]" />
     </HostList>
     <LocaleList>
       <Locale Code="All" />
